@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Ejercicio-integrador-react/static/css/main.630dc2f2.chunk.css",
+    "main.js": "/Ejercicio-integrador-react/static/js/main.785f5f6d.chunk.js",
+    "main.js.map": "/Ejercicio-integrador-react/static/js/main.785f5f6d.chunk.js.map",
+    "runtime-main.js": "/Ejercicio-integrador-react/static/js/runtime-main.d148f4df.js",
+    "runtime-main.js.map": "/Ejercicio-integrador-react/static/js/runtime-main.d148f4df.js.map",
+    "static/css/2.4be38407.chunk.css": "/Ejercicio-integrador-react/static/css/2.4be38407.chunk.css",
+    "static/js/2.eb4c093f.chunk.js": "/Ejercicio-integrador-react/static/js/2.eb4c093f.chunk.js",
+    "static/js/2.eb4c093f.chunk.js.map": "/Ejercicio-integrador-react/static/js/2.eb4c093f.chunk.js.map",
+    "index.html": "/Ejercicio-integrador-react/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/Ejercicio-integrador-react/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.630dc2f2.chunk.css.map": "/Ejercicio-integrador-react/static/css/main.630dc2f2.chunk.css.map",
+    "static/js/2.eb4c093f.chunk.js.LICENSE.txt": "/Ejercicio-integrador-react/static/js/2.eb4c093f.chunk.js.LICENSE.txt",
+    "static/media/carrousel-3.424560c4.jpg": "/Ejercicio-integrador-react/static/media/carrousel-3.424560c4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d148f4df.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.eb4c093f.chunk.js",
+    "static/css/main.630dc2f2.chunk.css",
+    "static/js/main.785f5f6d.chunk.js"
+  ]
+}
