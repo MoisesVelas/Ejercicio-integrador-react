@@ -2,7 +2,7 @@
   "name": "template-simple-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://MoisesVelas.github.io/Ejercicio-integrador-react",
+  "homepage": "http://moisesvelas.github.io/Ejercicio-integrador-react",
   "dependencies": {
     "@babel/core": "^7.13.0",
     "@popperjs/core": "^2.9.2",
