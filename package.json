@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://MoisesVelas.github.io/Ejercicio-integrador-react",
   "dependencies": {
+    "@babel/core": "^7.13.0",
     "@popperjs/core": "^2.9.2",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
